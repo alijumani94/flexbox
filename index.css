@@ -1,0 +1,33 @@
+#navbar{
+    height: 75px;
+    width: 100vw;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-decoration: none;
+}
+#outerdiv{
+    height: 400px;
+    width: 100wh;
+    border: 2px black solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+}
+#innerdiv{
+    height: 200px;
+    width: 200px;
+    border: 2px blue solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
